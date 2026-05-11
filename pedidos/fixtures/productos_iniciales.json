@@ -1,0 +1,15 @@
+[
+  {"model": "pedidos.producto", "pk": 1,  "fields": {"nombre": "Combina 1: Espinacas / Filete",    "categoria": "combina",    "precio": "7.80", "emoji": "🍱", "activo": true}},
+  {"model": "pedidos.producto", "pk": 2,  "fields": {"nombre": "Combina 2: Guisantes / Sajonia",   "categoria": "combina",    "precio": "7.80", "emoji": "🍱", "activo": true}},
+  {"model": "pedidos.producto", "pk": 3,  "fields": {"nombre": "Combina 3: Judías / Lomo",         "categoria": "combina",    "precio": "7.80", "emoji": "🍱", "activo": true}},
+  {"model": "pedidos.producto", "pk": 4,  "fields": {"nombre": "Combina 4: Mixta / Pollo",         "categoria": "combina",    "precio": "7.80", "emoji": "🥗", "activo": true}},
+  {"model": "pedidos.producto", "pk": 5,  "fields": {"nombre": "Combina 5: Huevos / Chuleta",      "categoria": "combina",    "precio": "7.80", "emoji": "🍳", "activo": true}},
+  {"model": "pedidos.producto", "pk": 6,  "fields": {"nombre": "Combina 6: Pasta / Tortilla",      "categoria": "combina",    "precio": "7.80", "emoji": "🍝", "activo": true}},
+  {"model": "pedidos.producto", "pk": 7,  "fields": {"nombre": "Menú Especial (Mar/Mié)",          "categoria": "especial",   "precio": "9.00", "emoji": "🍲", "activo": true}},
+  {"model": "pedidos.producto", "pk": 8,  "fields": {"nombre": "Desayuno Baroja",                  "categoria": "desayuno",   "precio": "2.60", "emoji": "🥐", "activo": true}},
+  {"model": "pedidos.producto", "pk": 9,  "fields": {"nombre": "Bocadillo Clásico",                "categoria": "bocadillos", "precio": "2.40", "emoji": "🥖", "activo": true}},
+  {"model": "pedidos.producto", "pk": 10, "fields": {"nombre": "Bocadillo Variado",                "categoria": "bocadillos", "precio": "2.30", "emoji": "🥪", "activo": true}},
+  {"model": "pedidos.producto", "pk": 11, "fields": {"nombre": "Hamburguesa",                      "categoria": "bocadillos", "precio": "4.00", "emoji": "🍔", "activo": true}},
+  {"model": "pedidos.producto", "pk": 12, "fields": {"nombre": "Café",                             "categoria": "bebidas",    "precio": "1.40", "emoji": "☕", "activo": true}},
+  {"model": "pedidos.producto", "pk": 13, "fields": {"nombre": "Especial (Capuchino/Choco/Bombón)","categoria": "bebidas",    "precio": "2.00", "emoji": "🍫", "activo": true}}
+]
